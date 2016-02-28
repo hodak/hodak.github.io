@@ -764,7 +764,7 @@ body:not(.post-template) .post-title {
 
 .post-meta {
     display: block;
-    margin: 1.75rem 0 0 0;
+    margin: 1rem 0;
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
@@ -796,7 +796,7 @@ body:not(.post-template) .post-title {
 
 .post-date {
     display: inline-block;
-    margin-left: 8px;
+    margin-left: 0px;
     padding-left: 12px;
     border-left: #d5dbde 1px solid;
     text-transform: uppercase;
